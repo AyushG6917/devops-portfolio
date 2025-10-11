@@ -1,1 +1,1 @@
-<b><span style="color:#00bfff;">🚀 Welcome to My Project!</span></b>
+<b><span style="color:#00ffff;">🚀 Welcome to My Project!</span></b>
